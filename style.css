@@ -1,0 +1,55 @@
+.header {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.purchtop {
+  font-family: sans-serif;
+  font-style: italic;
+  position: relative;
+  top: 18px;
+}
+
+.purchase {
+  font-family: sans-serif;
+}
+
+.focustop {
+  font-family: sans-serif;
+  font-style: italic;
+  position: relative;
+  top: 18px;
+}
+
+.focus {
+  font-family: sans-serif;
+}
+
+.schedule {
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border:  black;
+    border-style:solid;
+    text-align: left; 
+    padding: .5rem;
+    border-spacing: 0pc;
+  }
+
+  .mypic {
+    margin: 0 37vw; 
+    max-height: 160px;
+}
+
+.bluetext {
+    color: rgb(29, 124, 184);
+    font-family: sans-serif;
+}
+
+
